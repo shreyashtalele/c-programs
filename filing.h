@@ -1,4 +1,0 @@
-void filing()
-{
-
-echeckvar=='\n')
