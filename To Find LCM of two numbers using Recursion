@@ -16,13 +16,13 @@ int main()
  
 int lcm(int a, int b)
 { 
-    static int com = 1;
+    static int common = 1;
  
     if (common % a == 0 && common % b == 0)
     {
-        return com;
+        return common;
     }
-    com;
+    commmon;
     lcm(a, b);
     return common;
 }
